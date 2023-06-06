@@ -2,7 +2,7 @@
 
 These exercises will give you practice handling function arguments.
 
-## Learning Goals
+## Learning goals
 
 By the end of this practice, you should be able to
 
